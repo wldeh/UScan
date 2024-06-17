@@ -11,9 +11,7 @@
 
   <!-- Centered images -->
   <div align="center">
-    <img src="assets/Preview (1).png" alt="Preview 1" width="200" style="margin: 10px;">
-    <img src="assets/Preview (2).png" alt="Preview 2" width="200" style="margin: 10px;">
-    <img src="assets/Preview.png" alt="Preview" width="200" style="margin: 10px;">
+    <img src="assets/pre.png" alt="Preview 1" width="400" style="margin: 10px;">
   </div>
 </div>
 
