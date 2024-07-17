@@ -12,7 +12,7 @@ import {
 } from 'react-native'
 import ActionSheet, { useScrollHandlers } from 'react-native-actions-sheet'
 
-function ExampleSheet({ sheetId, payload }) {
+function MainSheet({ sheetId, payload }) {
   const actionSheetRef = useRef(null)
   const scrollHandlers = useScrollHandlers('1', actionSheetRef)
   const [scrollEnabled, setScrollEnabled] = useState(false)
@@ -405,4 +405,4 @@ const styles = StyleSheet.create({
   }
 })
 
-export default ExampleSheet
+export default MainSheet
